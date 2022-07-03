@@ -53,8 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Key Skills
     layout: text
-     content: |
-       Kubernetes, Terraform , Helm, AWS, GCP, Azure , Istio, ArgoCD, Qualys, CI/CD
+    content: |
+      Kubernetes, Terraform , Helm, AWS, GCP, Azure , Istio, ArgoCD, Qualys, CI/CD
 
 content:
   - title: Experience # Title for the section
