@@ -49,6 +49,11 @@ darkmode: false
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Venkat and I'm a Devops Architect. As an DevOps Solution Architect consultant, I provide infrastructure automation services within private and public clouds as well as team training and DevOps mentoring. My specific areas of expertise are cloud systems automation and architecture and specialities encompass agile and lean development practices. Additionally, open source software strategy, identification, evaluation, selection, implementation and documentation. 
+  
+content:
+  - title: Key Skills
+    layout: list
+
 
 content:
   - title: Experience # Title for the section
