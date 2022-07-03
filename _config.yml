@@ -48,7 +48,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Venkat and I'm Devops Architect. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Venkat and I'm a Devops Architect. As an DevOps Solution Architect consultant, I provide infrastructure automation services within private and public clouds as well as team training and DevOps mentoring.My specific areas of expertise are cloud systems automation and architecture and specialities encompass agile and lean development practices. Additionally, open source software strategy, identification, evaluation, selection, implementation and documentation. My primary focus is on enabling development/engineering professionals, as well as project, program, and technical leads on the benefits of adaptive automation processes.
 
   I am most skilled in: <mark>Kubernetes</mark>, <mark>Cloud</mark>
 
@@ -79,7 +79,6 @@ content:
       - layout: left
         title: Hitachi Vantara
         link: https://www.hitachivantara.com/en-us/home.html
-        # link_text: boringcompany.com
         sub_title: Devops Architect
         caption: March 2019 - Present
         quote: >
@@ -88,6 +87,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.            
       - layout: left
         title: Cisco/NDS/Synamedia
+        sub_title: Senior Techincal Leader
         caption: 2008 - 2019
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
